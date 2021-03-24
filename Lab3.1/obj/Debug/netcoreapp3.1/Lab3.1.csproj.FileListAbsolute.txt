@@ -1,0 +1,13 @@
+C:\Users\jpeck\dev\Lab3.1\Lab3.1\obj\Debug\netcoreapp3.1\Lab3.1.csprojAssemblyReference.cache
+C:\Users\jpeck\dev\Lab3.1\Lab3.1\obj\Debug\netcoreapp3.1\Lab3.1.AssemblyInfoInputs.cache
+C:\Users\jpeck\dev\Lab3.1\Lab3.1\obj\Debug\netcoreapp3.1\Lab3.1.AssemblyInfo.cs
+C:\Users\jpeck\dev\Lab3.1\Lab3.1\obj\Debug\netcoreapp3.1\Lab3.1.csproj.CoreCompileInputs.cache
+C:\Users\jpeck\dev\Lab3.1\Lab3.1\bin\Debug\netcoreapp3.1\Lab3.1.exe
+C:\Users\jpeck\dev\Lab3.1\Lab3.1\bin\Debug\netcoreapp3.1\Lab3.1.deps.json
+C:\Users\jpeck\dev\Lab3.1\Lab3.1\bin\Debug\netcoreapp3.1\Lab3.1.runtimeconfig.json
+C:\Users\jpeck\dev\Lab3.1\Lab3.1\bin\Debug\netcoreapp3.1\Lab3.1.runtimeconfig.dev.json
+C:\Users\jpeck\dev\Lab3.1\Lab3.1\bin\Debug\netcoreapp3.1\Lab3.1.dll
+C:\Users\jpeck\dev\Lab3.1\Lab3.1\bin\Debug\netcoreapp3.1\Lab3.1.pdb
+C:\Users\jpeck\dev\Lab3.1\Lab3.1\obj\Debug\netcoreapp3.1\Lab3.1.dll
+C:\Users\jpeck\dev\Lab3.1\Lab3.1\obj\Debug\netcoreapp3.1\Lab3.1.pdb
+C:\Users\jpeck\dev\Lab3.1\Lab3.1\obj\Debug\netcoreapp3.1\Lab3.1.genruntimeconfig.cache
